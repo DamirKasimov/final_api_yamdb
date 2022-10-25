@@ -67,7 +67,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/Hrushon/api_yamdb.git
+https://github.com/DamirKasimov/final_api_yamdb.git
 ```
 
 ```
