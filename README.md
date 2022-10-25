@@ -71,7 +71,7 @@ https://github.com/DamirKasimov/final_api_yamdb.git
 ```
 
 ```
-cd api_yamdb
+cd final_api_yamdb
 ```
 
 Cоздать и активировать виртуальное окружение:
